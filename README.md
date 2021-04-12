@@ -1,1 +1,1 @@
-# Work with OpenCv library
+# Work with OpenCV library
