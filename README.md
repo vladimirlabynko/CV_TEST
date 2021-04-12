@@ -1,1 +1,1 @@
-# CV_TEST
+# Work with OpenCv library
